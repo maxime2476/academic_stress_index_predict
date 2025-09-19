@@ -5,3 +5,11 @@ L’objectif est double :
 Décrire les sources de stress perçues par les étudiants (pression familiale, pression des pairs, environnement d’étude, compétition académique, habitudes de coping, etc.).
 
 Tester un modèle de prédiction de l’index de stress académique à partir de ces variables explicatives.
+
+Contenu du dépôt :
+
+academic_stress_analysis.ipynb : Notebook Jupyter principal avec l’analyse complète (exploration des données, statistiques descriptives, modèle prédictif).
+
+data.csv : Jeu de données utilisé (140 individus).
+
+README.md : Présentation du projet.
