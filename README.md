@@ -1,12 +1,14 @@
 # academic_stress_index_predict
-Analyse du stress académique chez les étudiants  Ce projet explore les facteurs liés au stress académique à partir d’une enquête menée auprès de 140 étudiants.
+📚 Analyse du stress académique chez les étudiants  
+
+Ce projet explore les facteurs liés au stress académique à partir d’une enquête menée auprès de 140 étudiants.
 L’objectif est double :
 
 Décrire les sources de stress perçues par les étudiants (pression familiale, pression des pairs, environnement d’étude, compétition académique, habitudes de coping, etc.).
 
 Tester un modèle de prédiction de l’index de stress académique à partir de ces variables explicatives.
 
-Contenu du dépôt :
+🔍 Contenu du dépôt :
 
 academic_stress_analysis.ipynb : Notebook Jupyter principal avec l’analyse complète (exploration des données, statistiques descriptives, modèle prédictif).
 
@@ -14,15 +16,13 @@ data.csv : Jeu de données utilisé (140 individus).
 
 README.md : Présentation du projet.
 
-Méthodologie
+🧾 Méthodologie
 
 Statistiques descriptives : analyses univariées, bivariées et multivariées.
 
 Visualisations : graphiques clairs pour illustrer les résultats.
 
 Modélisation : régression (linéaire ou logistique) pour prédire le stress académique.
-
-Discussion : limites liées à la taille réduite de l’échantillon et absence de représentativité.
 
 ⚠️ Limites
 
