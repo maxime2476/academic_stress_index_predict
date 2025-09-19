@@ -13,3 +13,27 @@ academic_stress_analysis.ipynb : Notebook Jupyter principal avec l’analyse com
 data.csv : Jeu de données utilisé (140 individus).
 
 README.md : Présentation du projet.
+
+Méthodologie
+
+Statistiques descriptives : analyses univariées, bivariées et multivariées.
+
+Visualisations : graphiques clairs pour illustrer les résultats.
+
+Modélisation : régression (linéaire ou logistique) pour prédire le stress académique.
+
+Discussion : limites liées à la taille réduite de l’échantillon et absence de représentativité.
+
+⚠️ Limites
+
+Ce projet repose sur un petit échantillon (140 réponses). Les résultats ne peuvent pas être généralisés mais offrent des pistes exploratoires pour mieux comprendre les mécanismes du stress académique chez les étudiants.
+
+🚀 Utilisation
+
+Cloner le dépôt :
+
+git clone https://github.com/ton_compte/academic-stress.git
+
+Installer les dépendances (pandas, numpy, matplotlib, seaborn, scikit-learn).
+
+Lancer le notebook Jupyter.
